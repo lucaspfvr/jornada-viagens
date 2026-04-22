@@ -66,6 +66,17 @@ section.hero{
 
 }
 
+.content-title{
+  font-size: 28px;
+  font-weight: var(--titles-weights);
+}
+
+.content-text{
+  font-size: 20px;
+  font-weight: var(--text-weights);
+  line-height: 32px;
+}
+
 .section-title h2{
   font-size: 28px;
   font-weight: var(--titles-weights);
