@@ -62,15 +62,15 @@
     }
       /* PACOTES DE VIAGENS */
   .travel-packages.payments .content-container .image-gallery .image.first {
-    background: url(jornada-viagens/travel-packages/gallery1-tablet.png) no-repeat;
+    background: url(/jornada-viagens/travel-packages/gallery1-tablet.png) no-repeat;
     background-size: cover;
   }
   .travel-packages.payments .content-container .image-gallery .image.second {
-    background: url(jornada-viagens/travel-packages/gallery2-tablet.png) no-repeat;
+    background: url(/jornada-viagens/travel-packages/gallery2-tablet.png) no-repeat;
     background-size: cover;
   }
   .travel-packages.payments .content-container .image-gallery .image.thirdy {
-    background: url(jornada-viagens/travel-packages/gallery3-tablet.png) no-repeat;
+    background: url(/jornada-viagens/travel-packages/gallery3-tablet.png) no-repeat;
     background-size: cover;
   }
 
